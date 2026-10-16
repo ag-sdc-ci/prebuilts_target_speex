@@ -1,0 +1,28 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libspeex.a-x86_64-v2.so",
+		    "libdummy_binary_libspeex.a.so",
+		    "libdummy_binary_libspeexdsp.a-x86_64-v2.so",
+		    "libdummy_binary_libspeexdsp.a.so",
+		    "libdummy_binary_libspeexresampler-x86_64-v2.so.so",
+		    "libdummy_binary_libspeexresampler.a-x86_64-v2.so",
+		    "libdummy_binary_libspeexresampler.a.so",
+		    "libdummy_binary_libspeexresampler.so.so",
+		    "libdummy_ext_speex-x86_64-v2.so",
+		    "libdummy_ext_speex.so",
+		    "libdummy_headers_ext_speex-x86_64-v2.so",
+		    "libdummy_headers_ext_speex.so",
+		    "libdummy_pkgconfig_ext_speex-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_speex.so",
+		    "libspeex-x86_64-v2.so",
+		    "libspeex.so",
+		    "libspeexdsp-x86_64-v2.so",
+		    "libspeexdsp.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
